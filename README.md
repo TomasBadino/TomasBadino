@@ -1,6 +1,6 @@
 <h1 align="center">Hola! Soy <a href="https://github.com/TomasBadino" target="blank">
 Tomas Badino</a></h1>
-<h3 align="center">Estudiante de progracimion;&#127475</h3>
+<h3 align="center">Soy studiante de progracimion</h3>
 
 
 
