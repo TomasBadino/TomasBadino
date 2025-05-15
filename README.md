@@ -1,6 +1,6 @@
 <h1 align="center">Hola! Soy <a href="https://github.com/TomasBadino" target="blank">
 Tomas Badino</a></h1>
-<h3 align="center">Soy studiante de programacion</h3>
+<h3 align="center">Soy estudiante de programacion</h3>
 
 
 <br><br>
@@ -15,8 +15,8 @@ Tomas Badino</a></h1>
 
 <p>Formas de contactarme</p>
 <p align="center">
-	<a href="mailto:ahmed.7oskaa@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/7oskaa/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="tomasfabadino@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/tomas-adrian-badino-zx4//"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 
